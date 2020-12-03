@@ -1,0 +1,19 @@
+2019-05-29 18:16:26,351 WARN  [SoapUI] Missing folder [C:\Users\anilbt\Desktop\Anil\Daps\soapui-auto\ext] for external libraries
+2019-05-29 18:16:26,515 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\anilbt\soapui-settings.xml]
+2019-05-29 18:16:27,141 INFO  [WsdlProject] Loaded project from [file:/C:/Users/anilbt/Desktop/Anil/Daps/soapui-auto/src/test/resources/soapui/Soapui-auto-soapui-project.xml]
+2019-05-29 18:16:27,374 INFO  [SoapUITestCaseRunner] Setting project property [EnvName] to [${soapUiEnv}]
+2019-05-29 18:16:27,375 INFO  [SoapUITestCaseRunner] Setting project property [ServiceEndPoint] to [http://localhost:8080]
+2019-05-29 18:16:27,375 INFO  [SoapUITestCaseRunner] Setting project property [TestReportPath] to [C:\Users\anilbt\Desktop\Anil\Daps\soapui-auto\target/surefire-reports/]
+2019-05-29 18:16:27,381 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Soapui-auto]
+2019-05-29 18:16:27,382 INFO  [SoapUITestCaseRunner] Running Project [Soapui-auto], runType = SEQUENTIAL
+2019-05-29 18:16:27,402 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Functional TestSuite]
+2019-05-29 18:16:27,407 INFO  [SoapUITestCaseRunner] running step [Get Request]
+2019-05-29 18:16:27,735 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2019-05-29 18:16:27,735 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2019-05-29 18:16:27,737 INFO  [SoapUITestCaseRunner] running step [Post Request]
+2019-05-29 18:16:27,793 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2019-05-29 18:16:27,794 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2019-05-29 18:16:27,795 INFO  [SoapUITestCaseRunner] running step [Put Request]
+2019-05-29 18:16:27,812 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2019-05-29 18:16:27,817 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Functional TestSuite], time taken: 237ms, status: FINISHED
+2019-05-29 18:16:27,818 INFO  [SoapUITestCaseRunner] Project [Soapui-auto] finished with status [FINISHED] in 432ms
